@@ -27,4 +27,4 @@ Example: `AB01.json`
 - demo: Example Tutorial
 - manufacturer: Manufacturer Name
 - type: Device type, Node or Gateway
-- prorocol: Device protocol, LoRaWAN or MQTT
+- protocol: Device protocol, LoRaWAN or MQTT
